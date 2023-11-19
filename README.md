@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/9hkd1siumiitajmx?svg=true)](https://ci.appveyor.com/project/Novadiss/auto-thirdlesson)
