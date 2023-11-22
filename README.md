@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/9hkd1siumiitajmx?svg=true)](https://ci.appveyor.com/project/Novadiss/auto-thirdlesson)
+[![Java CI with Gradle](https://github.com/Novadiss/Auto.ThirdLesson/actions/workflows/gradle.yml/badge.svg)](https://github.com/Novadiss/Auto.ThirdLesson/actions/workflows/gradle.yml)
